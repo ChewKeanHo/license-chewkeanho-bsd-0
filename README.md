@@ -1,85 +1,82 @@
-# (Holloway) Chew, Kean Ho's Public Domain License
+# (Holloway) Chew, Kean Ho's Liberal License
 
 > **IMPORTANT NOTICE**
 >
-> Starting from version `v4.0.0`, this license had converged to the
-> [(Holloway) Chew, Kean Ho's Research and Libre License](https://doi.org/10.5281/zenodo.13777226).
+> This license was drafted by a software developer based on his past experiences
+> across software, service, and agriculture industries.
 >
-> To avoid duplication, **please use any of the following licenses instead**:
+> Like all legal documents,
+> **YOU MUST ALWAYS ENGAGE A LAWYER TO VALIDATE ITS FEASIBILITY**.
 >
-> 1. [(Holloway) Chew, Kean Ho's Research and Libre License](https://doi.org/10.5281/zenodo.13777226)
-> 2. [Public Domain Mark](https://creativecommons.org/public-domain/pdm/)
-> 3. [Creative Common 0 License](https://creativecommons.org/public-domain/cc0/)
->
-> This repository is now archived for educational purposes only.
-> **PLEASE DO NOT USE IT. YOU HAVE BEEN WARNED.**
+> **NEVER ASSUME WHEN DEALING WITH LEGAL TRANSACTIONS**.
 
-----
-
-A published research and experimentation friendly open-source license
-originally for [(Holloway) Chew, Kean Ho](https://github.com/ChewKeanHo) but
-is now open to all product licensing purposes. Initially, this license was
-design for public domain deployment but after multiple improvement iterations.
-However, under the author(s) strong opinions, the license had converged into
-[(Holloway) Chew, Kean Ho's Research and Libre License](https://doi.org/10.5281/zenodo.13777226).
-This is due to none of the author want to forgo some important clauses
-matching existing public domain licenses due to their important responsibilties.
-Hence, starting from version `v4.0.0`, this license shall be superseded by its
-convergence. To avoid misleading You, You are advised and shall to use any of
-the following licenses instead:
-
-1. [(Holloway) Chew, Kean Ho's Research and Libre License](https://doi.org/10.5281/zenodo.13777226)
-2. [Public Domain Mark](https://creativecommons.org/public-domain/pdm/)
-3. [Creative Common 0 License](https://creativecommons.org/public-domain/cc0/)
-
- This license was referenced from
-[Open Source Initiative's BSD 3 Clauses License](https://opensource.org/license/bsd-3-clause),
-[Open Source Initiative's BSD 3 Clauses Clear License](https://spdx.org/licenses/BSD-3-Clause-Clear.html),
-[Open Source Initiative's BSD 2 Clauses Patent License](https://opensource.org/license/bsdpluspatent),
-[Open Source Initiative's BSD 2 Clauses License](https://opensource.org/license/bsd-2-clause),
-[Public Domain Mark](https://creativecommons.org/public-domain/pdm/),
-[Creative Common 0 License](https://creativecommons.org/public-domain/cc0/),
-and
-[Open Source Initiative's MIT License](https://opensource.org/license/MIT)
-but was adopted and written from the
-[Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
-and
-[Creative Common Licenses](https://creativecommons.org/)
-as its baseline and applied the following changes:
+A published baseline liberal license targeting publicly obtainable,
+commercial, and proprietor source-liberty product licensing needs. This license
+adopted from [Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
+software license and [Creative Common Licenses](https://creativecommons.org/)
+product license as its baseline and applied the following changes matching the
+current timeline:
 
 1. Changed `Software` to `Product` so that the license can be expanded to
-   non-software product licensing usage (e.g. graphics, video, manufacturing
+   non-software product licensing uses (e.g. graphics, video, manufacturing
    design, audio, etc) without needing to spin multiple outbound licenses; AND
 2. Added license assignment, ratification, and tenure section to specify when
    and how is the license applied; AND
-3. Added version controlled clauses for which version shall be in effect by
-   default; AND
-4. Added artifical intelligence training dataset usage clauses; AND
-5. Added Sensitive Data warranty and liability coverage; AND
-6. Added global vendors (e.g. datacenter) Sensitive Data limitation of
-   liability; AND
-7. Added force manjure limitation of liability; AND
-8. Added global vendors (e.g. datacenter) Sensitive Data limitation of
-   liability; AND
-9. Added judiciary minimal damage values limitation of liability; AND
-10. Expanded grant clauses into Creative Commons' rights categories; AND
-11. Added geographical indicator coverage; AND
+3. Added license termination section to specify when the license is matured; AND
+4. Added version controlled clause for continuous improvement; AND
+5. Added sensitive data management and security coverage; AND
+6. Structured known Rights to Use sections for easier parsing and referencing
+   (based on `Creative Common Licenses`); AND
+7. Added non-contact `Rights to Use` clauses (example: as dataset for training
+   AI); AND
+8. Added force manjure limitation of liabilities; AND
+9. Added minimal agreed judiciary damage; AND
+10. Added geographical indicator coverage; AND
+11. Added designation indicator coverage; AND
 12. Added protected geographical indicator coverage; AND
 13. Added protected designation indicator coverage; AND
-14. Added industrial design use coverage; AND
-15. Added integrated circuit layout design use coverage; AND
-16. Added trade secret use coverage.
+14. Added integrated circuit layout design use coverage; AND
+15. Added industrial design use coverage; AND
+16. Added trade secret use coverage; AND
+17. Added trademark use coverage; AND
+18. Applied [plainlanguage.gov](https://plainlanguage.gov/guidelines/)
+    specifications; AND
+19. Re-written from scratch by human with the only input provision assistance
+    from [Claude AI](https://claude.ai/); AND
+20. Addressed the modified and derived Products' renaming grey area issue; AND
+21. Added statutory time limit for any legal claim; AND
+22. Added QR code notice type for space constrained product display.
 
-This repository was formally known as
-`(Holloway) Chew, Kean Ho's BSD Zero Clause License` but was renamed for
-consistency purposes.
+
+This repository was formerly known as the following but was renamed for
+consistency purposes:
+
+1. `(Holloway) Chew, Kean Ho's Public Domain License`
+2. `(Holloway) Chew, Kean Ho's BSD Zero Clause License`
+
+
+
+
+## Business Reasons
+
+This project was initiated for 4 reasons:
+
+1. As of year 2024, there were too many license related incidents due its
+   outdated nature leading to legal exploits; AND
+2. Most non-commercial licenses are out-of-date and does not implement
+   automatic update to the license clauses aside from point-releasing; AND
+3. Most licenses are not clear about guidelines and a lot of the licenses
+   are too vague in its obligation coverage; AND
+4. There is a need for a far more liberal license meant for common critical
+   products (example: software kernel libraries) that are compatible with
+   other licenses similar to `0BSD` and `CC0`.
 
 
 
 
 ## Version Controlled
 
-This repository is version controlled using
+This license is version controlled using
 [semantic versioning](https://semver.org/) definitions where:
 
 1. the `MAJOR` version denotes major legal changes; AND
@@ -89,113 +86,69 @@ This repository is version controlled using
 3. the `PATCH` version denotes the repository management changes such as but
    not limited to new language addition, updating `README.md`, and etc.
 
+By default, the license is always using the latest and greatest. If you want
+a specific version, download that license file and include it into your
+product repository.
+
 
 
 
 ## License Nature
 
-To use this license for your product licensing, you **MUST**, in layman terms,
-consider the following as your recipient perpectives:
+To comply with [PlainLanguage.gov](https://plainlanguage.gov/guidelines/),
+You have to read the license files directly. It must be easily readable for
+any general public audience without assistance.
 
-1. *You're only allowed to use for personal deployment as long as you*:
-   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
-   2. **SHALL** accept that the creators are not responsible for anything of
-      any kind; AND
-   3. **SHALL** retain the copyright notices and effects of the product you
-      use, be it in its raw form (e.g. source codes) or its produced form
-      (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect); AND
-   6. **SHALL**, when applicable, obtain the grant of registered IP
-      (e.g. patent, industrial design, IC layout design, etc) directly from
-      the owner on your own before use; AND
-2. *You're only allowed to use for commercial deployment as long as you*:
-   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
-   2. **SHALL** accept that the creators are not responsible for anything of
-      any kind; AND
-   3. **SHALL** retain the copyright notices and effects of the product you
-      use, be it in its raw form (e.g. source codes) or its produced form
-      (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect); AND
-   6. **SHALL**, when applicable, obtain the grant of registered IP
-      (e.g. patent, industrial design, IC layout design, etc) directly from
-      the owner on your own before use; AND
-3. *You're only allowed to edit/modify as long as you*:
-   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
-   2. **SHALL** accept that the creators are not responsible for anything of
-      any kind; AND
-   3. **SHALL** retain the copyright notices and effects of the product you
-      use, be it in its raw form (e.g. source codes) or its produced form
-      (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect); AND
-   6. **SHALL**, when applicable, obtain the grant of registered IP
-      (e.g. patent, industrial design, IC layout design, etc) directly from
-      the owner on your own before use; AND
-4. *You're only allowed to remix/remaster as long as you*:
-   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
-   2. **SHALL** accept that the creators are not responsible for anything of
-      any kind; AND
-   3. **SHALL** retain the copyright notices and effects of the product you
-      use, be it in its raw form (e.g. source codes) or its produced form
-      (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect); AND
-   6. **SHALL**, when applicable, obtain the grant of registered IP
-      (e.g. patent, industrial design, IC layout design, etc) directly from
-      the owner on your own before use; AND
-5. *You're only allowed to distribute as long as you*:
-   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
-   2. **SHALL** accept that the creators are not responsible for anything of
-      any kind; AND
-   3. **SHALL** retain the copyright notices and effects of the product you
-      use, be it in its raw form (e.g. source codes) or its produced form
-      (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect); AND
-   6. **SHALL**, when applicable, obtain the grant of registered IP
-      (e.g. patent, industrial design, IC layout design, etc) directly from
-      the owner on your own before use; AND
-6. *You're only allowed to re-distribute as long as you*:
-   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
-   2. **SHALL** accept that the creators are not responsible for anything of
-      any kind; AND
-   3. **SHALL** retain the copyright notices and effects of the product you
-      use, be it in its raw form (e.g. source codes) or its produced form
-      (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect); AND
-   6. **SHALL**, when applicable, obtain the grant of registered IP
-      (e.g. patent, industrial design, IC layout design, etc) directly from
-      the owner on your own before use; AND
-7. *You're only allowed to perform any miscellaneous rights not mentioned above
-   as long as you*:
-   1. **SHALL AND STRICTLY REQUIRED** to attribute to the copyright holders; AND
-   2. **SHALL** accept that the creators are not responsible for anything of
-      any kind; AND
-   3. **SHALL** retain the copyright notices and effects of the product you
-      use, be it in its raw form (e.g. source codes) or its produced form
-      (compiled software binary files); AND
-   4. **SHALL NOT** use the creators' name, brand, and trademark without their
-      written notices for any endorsement of your pursue; AND
-   5. are **NOT REQUIRED** to expose and upstream your changes back to the
-      copyright holders all the way back to us (copyleft effect); AND
-   6. **SHALL**, when applicable, obtain the grant of registered IP
-      (e.g. patent, industrial design, IC layout design, etc) directly from
-      the owner on your own before use.
+If you cannot parse or understand any part of the license, that means the
+license has not fully achieve the guideline yet. In that case, please file a
+[query issue](https://github.com/ChewKeanHo/license-liberal/issues).
+
+
+
+
+## Credits
+
+These are the official stewards of the license:
+
+1. **[(Holloway) Chew, Kean Ho](https://hollowaykeanho.com)** - principal author
+   and reviewer.
+
+
+These are the folks who indirectly improve this license upto a considerable
+quality either by resources sharing or scanning:
+
+1. **[Bruce Payne](https://perens.com/)** - for relentlessly providing license
+   drafting guidances and emotional positivity.
+2. **[Anthropic's Claude AI](https://claude.ai/)** - for providing a lot of
+   great inputs for me to fine-tune clauses and clues for hunting for actual
+   legal resources.
+3. **Chua, Yee Soong** - for guiding over Malaysia's legal acumen and resources.
+
+
+
+
+## Researches
+
+* [Limitations Act of Malaysia](https://lom.agc.gov.my/ilims/upload/portal/akta/LOM/EN/ACT%20254-Online%20version%20as%20at%201%20Sept%202019.pdf)
+* [United States' PlainLanguage.GOV](https://plainlanguage.gov/guidelines/)
+* [MYIPO](https://www.myipo.gov.my/en/home/)
+* [USPTO](https://www.uspto.gov/)
+* [EUIPO](https://www.euipo.europa.eu/en)
+* [CNIPA](https://english.cnipa.gov.cn/col/col2977/index.html)
+* [BSD Zero Clause License](https://opensource.org/license/0bsd)
+* [MIT License](https://opensource.org/license/MIT)
+* [BSD 3 Clauses Clear License](https://spdx.org/licenses/BSD-3-Clause-Clear.html)
+* [BSD 2 Clauses + Patent License](https://opensource.org/license/bsdpluspatent)
+* [Open Source Initiative's Apache 2.0 License](https://opensource.org/license/apache-2-0)
+* [Creative Common Licenses](https://creativecommons.org/)
+
+
+
+
+## Publication License
+
+This workspace and repository is published under
+[Creative Common CC-BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en).
 
 
 
@@ -221,26 +174,15 @@ The following are the license notice within the supported languages:
 Copyright [YEAR] [FULL_LEGAL_NAME] [CONTACT_LIKE_EMAIL_ADDRESS]
 
 
-Licensed under the (Holloway) Chew, Kean Ho’s Public Domain License
-(the "License"); you may not use this file except in compliance with the
-License. You may obtain a copy of the License at
+Licensed under (Holloway) Chew, Kean Ho’s Liberal License (the "License").
+You must comply with the license to use the content. Get the License at:
 
                  https://doi.org/10.5281/zenodo.13770769
 
-Unless required by applicable law or agreed to in writing, the content
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. The License
-does not express or implied to license any party’s registered and confidential
-intellectual properties such as but not limited to patent, patent in process,
-industrial design, integrated circuit layout design, and trade secrets. See the
-License for the specific language governing permissions and limitations under
-the License.
+You MUST ensure any interaction with the content STRICTLY COMPLIES with
+the permissions and limitations set forth in the license.
 ```
 
+OR label the QR code
 
-
-
-## License
-
-This workspace and repository is published under
-[Creative Common CC-BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en).
+[<img src="src/files/NOTICE_en.svg" width="120">](#)
